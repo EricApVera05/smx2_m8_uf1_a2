@@ -32,3 +32,10 @@ Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 ![code](https://github.com/EricApVera05/smx2_m8_uf1_a2/blob/main/code.png "code")
 
 ¿Qué es ![css](https://github.com/EricApVera05/smx2_m8_uf1_a2/blob/main/css.png "css") ?
+
+CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los
+elementos HTML deberían ser mostrados.
+
+8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+
+![web server](https://github.com/EricApVera05/smx2_m8_uf1_a2/blob/main/web server.png "webserver")
