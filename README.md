@@ -29,3 +29,6 @@ Las herramientas web son aplicaciones o programas que se encuentran alojados dir
 
 Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 
+![code](https://github.com/EricApVera05/smx2_m8_uf1_a2/blob/main/code.png "code")
+
+¿Qué es ?
