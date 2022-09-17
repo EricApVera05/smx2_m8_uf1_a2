@@ -38,4 +38,4 @@ elementos HTML deberían ser mostrados.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-![web server](https://github.com/EricApVera05/smx2_m8_uf1_a2/blob/main/web server.png "webserver")
+![web%20server](https://github.com/EricApVera05/smx2_m8_uf1_a2/blob/main/web%20server.png "webserver")
