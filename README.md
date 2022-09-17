@@ -17,9 +17,12 @@ Las herramientas web son aplicaciones o programas que se encuentran alojados dir
 [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/)
 
 | Aplicaciones | Visto |
+|:--------:|---------:|
 | Google Docs | ![tick](https://github.com/EricApVera05/smx2_m8_uf1_a2/blob/main/tick.png "Tick") |
 | Google Slides | ![tick](https://github.com/EricApVera05/smx2_m8_uf1_a2/blob/main/tick.png "Tick") |
 | Google Sheets | ![tick](https://github.com/EricApVera05/smx2_m8_uf1_a2/blob/main/tick.png "Tick") |
 | Google Calendar | ![calendar](https://github.com/EricApVera05/smx2_m8_uf1_a2/blob/main/calendar.png "Calendar")|
 | Google Meet | ![ord](https://github.com/EricApVera05/smx2_m8_uf1_a2/blob/main/ord.png "Ordenador") |
 | ... | ... |
+
+6. ¿Qué es 
