@@ -15,6 +15,7 @@ Las aplicaciones web son programas informáticos que se ejecutan en un servidor 
 Las herramientas web son aplicaciones o programas que se encuentran alojados directamente en una página de internet.
 
 [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/)
+
 |Aplicaciones|Visto|
 |Google Docs| |
 |Google Slides| |
