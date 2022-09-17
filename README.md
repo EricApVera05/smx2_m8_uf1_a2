@@ -25,4 +25,7 @@ Las herramientas web son aplicaciones o programas que se encuentran alojados dir
 | Google Meet | ![ord](https://github.com/EricApVera05/smx2_m8_uf1_a2/blob/main/ord.png "Ordenador") |
 | ... | ... |
 
-6. ¿Qué es 
+6. ¿Qué es ![html](https://github.com/EricApVera05/smx2_m8_uf1_a2/blob/main/html.png "html") ?
+
+Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
+
